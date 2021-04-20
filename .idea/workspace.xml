@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6225bf1-331a-405c-bcb8-6bd76b4ed664" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bubble" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1oBsC9sixoYyZfKcMxDP3UIU7rI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bubble" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bubble" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bubble" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build bubble" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="95" key="#Notifications" timestamp="1618924577721">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="95" key="#Notifications/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924577721" />
+    <state x="305" y="23" key="CommitChangelistDialog2" timestamp="1618924405545">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="305" y="23" key="CommitChangelistDialog2/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924405545" />
+    <state x="585" y="331" key="Github.ShareDialog" timestamp="1618924567943">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="585" y="331" key="Github.ShareDialog/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924567943" />
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1618924430998">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.bottom/0.23.1440.796/1440.-72.1920.1057@0.23.1440.796" timestamp="1616571528555" />
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924430998" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1618924430997">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.center/0.23.1440.796/1440.-72.1920.1057@0.23.1440.796" timestamp="1616571528554" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924430997" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1618924430997">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.left/0.23.1440.796/1440.-72.1920.1057@0.23.1440.796" timestamp="1616571528554" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924430997" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1618924430998">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="184" key="GridCell.Tab.0.right/0.23.1440.796/1440.-72.1920.1057@0.23.1440.796" timestamp="1616571528554" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618924430998" />
+    <state x="229" y="61" key="SettingsEditor" timestamp="1618923308614">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1613539363188" />
+    <state x="229" y="61" key="SettingsEditor/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618923308614" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1618923465392">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.813/1440.-72.1920.1057@0.23.1440.813" timestamp="1618923465392" />
+  </component>
+</project>
